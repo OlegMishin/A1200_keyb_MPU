@@ -24,6 +24,9 @@ How it looks:
  
  ![изображение](https://user-images.githubusercontent.com/81614352/142762503-699979e4-981a-40ae-a84a-f004c9e2f14c.png)
 
+ Both gerber files included in the "PCB" folder:
+ 1. A1200_keyb_mpu_olm_normal_Gerber.zip - Normal pcb, to be trimmed.
+ 2. A1200_keyb_mpu_olm_cast_holes_Gerber.zip - Ready to be produced with "castellated holes" technology.
  
  The pcb is not compatible with a PLCC socket. Must be soldered to Amiga's pcb.
  
