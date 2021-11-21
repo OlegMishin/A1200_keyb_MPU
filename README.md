@@ -4,6 +4,11 @@ Amiga 1200 keyboard MPU drop-in replacement pcb
 
 As the 68HC05 (p/n 391508-01) used in the Amiga 1200 is getting to be very expensive, I designed a drop-in replacement pcb using Atmel (Microchip) MPU - ATMEGA324PB-20MU. 
 
+Advantages:
+- No crystal required
+- No Voltage monitor IC required
+- SW can be updated to support an external keyboard with other protocol. Connected e.g. to the unsoldered crystal's pins.
+
 How it looks:
 
 ![изображение](https://user-images.githubusercontent.com/81614352/142762803-39e37363-bc13-4729-8000-2b5181df1634.png)
