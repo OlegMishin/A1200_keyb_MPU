@@ -1,0 +1,15 @@
+"--cpu=m324pb" 
+
+"--enhanced_core" 
+
+"-p" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\avr\Config\iom324pb.ddf" 
+
+"--eeprom_size" 
+
+"1024" 
+
+
+
+
