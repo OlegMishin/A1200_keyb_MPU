@@ -14,7 +14,7 @@ How it looks:
 ![изображение](https://user-images.githubusercontent.com/81614352/142762803-39e37363-bc13-4729-8000-2b5181df1634.png)
 
  
- Firmware:
+# Firmware:
  
  Designed with "IAR EW for Microchip AVR 7.30". 
 
@@ -23,7 +23,7 @@ How it looks:
  ![изображение](https://user-images.githubusercontent.com/81614352/142762608-4e24c24a-dde0-4b1f-9b20-feb42675fe86.png)
 
  
- PCB:
+# PCB:
  
  To fit the MPU's footprint it shall be made with "castellated holes" technology, which is expensive. So I made a simple board with normal holes. This board needs to be cutted to fit the footprint as shown below.
  
@@ -32,6 +32,8 @@ How it looks:
  Both gerber files included in the "PCB" folder:
  1. A1200_keyb_mpu_olm_normal_Gerber.zip - Normal pcb, to be trimmed.
  2. A1200_keyb_mpu_olm_cast_holes_Gerber.zip - Ready to be produced with "castellated holes" technology.
+
+ Passive components are 0603(imperial) size.
  
  The pcb is not compatible with a PLCC socket. Must be soldered to Amiga's pcb.
  
