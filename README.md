@@ -33,7 +33,7 @@ How it looks:
  1. A1200_keyb_mpu_olm_normal_Gerber.zip - Normal pcb, to be trimmed.
  2. A1200_keyb_mpu_olm_cast_holes_Gerber.zip - Ready to be produced with "castellated holes" technology.
 
- Passive components are 0603(imperial) size.
+ Passive components are 0402(imperial) size.
  
  The pcb is not compatible with a PLCC socket. Must be soldered to Amiga's pcb.
  
